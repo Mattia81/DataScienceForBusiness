@@ -7,4 +7,3 @@ In the repository there are two main folders, one concernes the analysis on the 
 the second concerns the pandemic in Italy. In each folder, there is the jupyter notebook where all the
 analysis have been done.
 
-Prova Luca craccato
