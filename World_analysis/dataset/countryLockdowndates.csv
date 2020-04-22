@@ -15,6 +15,7 @@ Australia,South Australia,,None,https://en.wikipedia.org/wiki/2020_coronavirus_p
 Australia,Tasmania,,None,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Australia
 Australia,Victoria,24/03/2020,Full,https://www.theage.com.au/national/victoria/schools-closed-from-tuesday-in-drastic-bid-to-curb-coronavirus-spread-20200322-p54cpw.html
 Australia,Western Australia,,None,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Australia
+Australia,,,None,
 Austria,,16/03/2020,Full,https://www.reuters.com/article/us-health-coronavirus-austria/austria-close-to-standstill-starts-biggest-repatriation-effort-ever-idUSKBN21427X
 Azerbaijan,,02/03/2020,Full,https://en.trend.az/azerbaijan/society/3200643.html
 Bahamas,,20/03/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Bahamas
@@ -49,6 +50,7 @@ Canada,Prince Edward Island,16/03/2020,Full,https://en.wikipedia.org/wiki/2020_c
 Canada,Quebec,12/03/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Canada
 Canada,Saskatchewan,18/03/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Canada
 Canada,Yukon,18/03/2020,Partial,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Canada
+Canada,,16/03/2020,Full,
 Central African Republic,,,None,
 Chad,,,None,
 Chile,,26/03/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Chile
@@ -85,6 +87,7 @@ China,Tibet,23/01/2020,Full,https://en.wikipedia.org/wiki/2020_Hubei_lockdowns
 China,Xinjiang,23/01/2020,Full,https://en.wikipedia.org/wiki/2020_Hubei_lockdowns
 China,Yunnan,23/01/2020,Full,https://en.wikipedia.org/wiki/2020_Hubei_lockdowns
 China,Zhejiang,23/01/2020,Full,https://en.wikipedia.org/wiki/2020_Hubei_lockdowns
+China,,23/01/2020,Full,
 Colombia,,25/03/2020,Full,https://www.theguardian.com/world/2020/mar/23/colombian-groups-exploiting-coronavirus-lockdown-to-kill-activists
 Congo (Brazzaville),,,None,
 Congo (Kinshasa),,19/03/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Democratic_Republic_of_the_Congo
@@ -149,7 +152,7 @@ Jersey,,18/03/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_
 Jordan,,21/03/2020,Full,https://www.nytimes.com/aponline/2020/03/21/world/middleeast/ap-ml-virus-outbreak-mideast.html
 Kazakhstan,,15/03/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Kazakhstan
 Kenya,,15/03/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Kenya
-"Korea, South",,23/02/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_South_Korea
+Korea South,,23/02/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_South_Korea
 Kosovo,,25/03/2020,Partial,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Kosovo
 Kuwait,,16/03/2020,Partial,https://www.cosmopolitanme.com/travel/kuwait-shutdown-due-to-coronavirus
 Kyrgyzstan,,24/03/2020,Partial,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Kyrgyzstan
@@ -299,6 +302,7 @@ US,Washington,23/03/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pan
 US,West Virginia,24/03/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States
 US,Wisconsin,25/03/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States
 US,Wyoming,,None,
+US,,24/03/2020,Full,
 Uzbekistan,,20/03/2020,Partial,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Uzbekistan
 Vatican City,,10/03/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Vatican_City
 Venezuela,,16/03/2020,Full,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Venezuela
