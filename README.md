@@ -7,3 +7,4 @@ In the repository there are two main folders, one concerns the analysis on the p
 the second concerns the pandemic in Italy. In each folder, there is the jupyter notebook where all the
 analysis have been done. 
 
+The final work, that is the merging of the two analysis is in the COVID19 analysis folder
