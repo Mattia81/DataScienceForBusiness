@@ -1,0 +1,7 @@
+pandas
+numpy
+os
+matplotlib
+copy
+datetime
+math
